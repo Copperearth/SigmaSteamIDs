@@ -1,5 +1,1 @@
-var myContacts = [
-	  { "name": "Parvez Ansari", "email": "ansariparvez@gmai.com", "mobile":"9998979695" },
-	  { "name": "Tayyeb Shaikh", "email": "tshaikh1981@gmai.com", "mobile":"9091929394" },
-	  { "name": "Ashfaque Shaikh", "email": "ashly786@gmai.com", "mobile":"8081828384" }
-	];
+{"name1": 69420,"name2": 1234}
